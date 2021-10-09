@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GothicDemonBunny
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning JavaScript, CSS, and HTML.
-- 💞️ I’m looking to collaborate on websites.
+- 👀 I’m interested in learning new languages.
+- 🌱 I’m currently learning Python, JavaScript, CSS, and HTML.
 - 📫 How to reach me: gothicdemonbunny@gmail.com 
 
 
